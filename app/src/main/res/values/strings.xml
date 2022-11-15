@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">tugas View Group</string>
+    <string name="halodepan">Product</string>
+    <string name="halodepan2">Sneakers</string>
+    <string name="sneaker1">Sneakers 1</string>
+    <string name="sneaker2">Sneakers 2</string>
+
+    <string name="content_specs_display">Sepatu Flat Sneakers Unisex Warna Putih Beige</string>
+    <string name="content_specs_display2">Sepatu Sneakers Warna Dasar Putih</string>
+    <string name="content_specs_size">S, M, L, XL, XXL</string>
+    <string name="content_specs_battery">Klik Order Sekarang, Jangan tahun depan.. Keburu habis ntar hehe</string>
+    <string name="stock">Stock hanya 3 buah</string>
+    <string name="display">Deskripsi</string>
+    <string name="size">Panduan Size</string>
+    <string name="battery">Cara Pemesanan</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Natasya Official Shop</string>
+    <string name="buy">Order</string>
+    <string name="dummy_value">Rp. 100.000</string>
+    <string name="dummy_photos">4 photos</string>
+    <string name="tokonama">Nama Toko</string>
+    <string name="dummy_value2">Rp. 250.000</string>
+</resources>
